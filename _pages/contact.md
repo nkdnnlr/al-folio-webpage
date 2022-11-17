@@ -6,5 +6,5 @@ title: contact
 nav: true
 nav_order: 99
 ---
-[University email](mailto:dennler@proton.me) \\
-[Private email](mailto:n.dennler2@herts.ac.uk)
+[university email](mailto:dennler@proton.me) \\
+[private email](mailto:n.dennler2@herts.ac.uk)
